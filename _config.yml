@@ -1,2 +1,3 @@
 name: JoShua Bartkoske, lover of Jesus
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
