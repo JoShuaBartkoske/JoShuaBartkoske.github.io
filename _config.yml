@@ -1,3 +1,5 @@
-name: JoShua Bartkoske, lover of Jesus
+title: JoShua Bartkoske
+description: My academic website
+author: JoShua Bartkoske
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
