@@ -41,6 +41,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 div.email > span:nth-child(2) {
 	display: none;
 }
