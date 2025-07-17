@@ -2,11 +2,7 @@
 layout: post
 title: "My ICRC 2025 Proceedings"
 date: 2025-07-17
-toc: True
 ---
-
-* TOC
-{:toc}
 
 This blog post will show everything in the current text and figures of my ICRC 2025 Proceedings for those interested in learning more from my poster. This includes figures and text that may only appear in either the poster or proceedings but not it both. 
 <!-- 
